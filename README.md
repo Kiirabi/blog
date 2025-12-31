@@ -20,5 +20,5 @@
 Explore my technical notes and database insights:
 
 ```bash
-git clone git@github.com:qilabideblog/blogf.git
+git clone git@github.com:Kiirabi/blogf.git
 cd blogf
